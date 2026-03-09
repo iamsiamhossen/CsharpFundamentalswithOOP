@@ -1,0 +1,5 @@
+D:\Phitron\Job Preparation\Csharp\PracticeCsharp\obj\Debug\net10.0\PracticeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phitron\Job Preparation\Csharp\PracticeCsharp\obj\Debug\net10.0\PracticeCsharp.AssemblyInfoInputs.cache
+D:\Phitron\Job Preparation\Csharp\PracticeCsharp\obj\Debug\net10.0\PracticeCsharp.AssemblyInfo.cs
+D:\Phitron\Job Preparation\Csharp\PracticeCsharp\obj\Debug\net10.0\PracticeCsharp.csproj.CoreCompileInputs.cache
+D:\Phitron\Job Preparation\Csharp\PracticeCsharp\obj\Debug\net10.0\PracticeCsharp.sourcelink.json
